@@ -68,3 +68,49 @@ To find missing values in the dataset, `isnull` function was used. There were 17
     <td align="center"> 28.0 </td>
   </tr>
 </table>
+
+
+<p><strong>Table 2:</strong> Gender-wise Survival Rate </p>
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr>
+    <th> Test Component </th>
+    <th align="center"> Result </th>
+  </tr>
+  
+  <tr>
+    <td> Null hypothesis </td>
+    <td align="center"> Significant difference in survival rates </td>
+  </tr>
+
+  <tr>
+    <td> Significance level (α) </td>
+    <td align="center"> 0.05 </td>
+  </tr>
+
+  <tr>
+    <td> T-statistic </td>
+    <td align="center"> -18.672 </td>
+  </tr>
+
+  <tr>
+    <td> P-value </td>
+    <td align="center"> 2.28 × 10⁻⁶¹ </td>
+  </tr>
+
+  <tr>
+    <td> Decision </td>
+    <td align="center"> Reject the null hypothesis </td>
+  </tr>
+
+   <tr>
+    <td> Interpretation </td>
+    <td align="center"> There is a significant difference in survival rates between males and females on the Titanic </td>
+  </tr>
+</table>
+
+
+## Build from Source
+Instructions are provided in the `ipynb` file.
+
+
+If you have any queries, contact me: arnabnushna24@gmail.com
