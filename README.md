@@ -43,3 +43,28 @@ To find missing values in the dataset, `isnull` function was used. There were 17
   </tr>
   
 </table>
+
+
+
+## Statistical Analysis
+<p><strong>Table 1:</strong> Mean, Median and Mode of 'Fare' and 'Age' Columns </p>
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr>
+    <th> Columns </th>
+    <th align="center"> Mean </th>
+    <th align="center"> Median </th>
+    <th align="center"> Mode </th>
+  </tr>
+  <tr>
+    <td> Fare </td>
+    <td align="center"> 32.2042 </td>
+    <td align="center"> 14.4542 </td>
+    <td align="center"> 8.05 </td>
+  </tr>
+  <tr>
+    <td> Age </td>
+    <td align="center"> 29.3616 </td>
+    <td align="center"> 28.0 </td>
+    <td align="center"> 28.0 </td>
+  </tr>
+</table>
