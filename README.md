@@ -12,7 +12,7 @@ This project aims to analyze [Titanic - Machine Learning from Disaster](https://
 
 
 ## Data Retrieval
-`Titanic - Machine Learning from Disaster` dataset is available on Kaggle. It contains three (3) `.csv` files - `gender_submission.csv`, `test.csv`, and `train.csv`. Among them, `train.csv` file was used for this project. It contains twelve (12) colunmns - `PassengerId`,	`Survived`,	`Pclass`,	`Name`,	`Sex`,	`Age`,	`SibSp`, 	`Parch`, `Ticket`, `Fare`, `Cabin`, and	`Embarked`. `train.csv` file was loaded into a pandas dataframe for further analysis.
+`Titanic - Machine Learning from Disaster` dataset is available on Kaggle. It contains three (3) `.csv` files - `gender_submission.csv`, `test.csv`, and `train.csv`. Among them, `train.csv` file was used for this project. It contains twelve (12) colunmns - `PassengerId`,	`Survived`,	`Pclass`,	`Name`,	`Sex`,	`Age`,	`SibSp`, 	`Parch`, `Ticket`, `Fare`, `Cabin`, and	`Embarked`. `train.csv` file was loaded into a `pandas` dataframe for further analysis.
 
 
 ## Data Cleaning and Manipulation
