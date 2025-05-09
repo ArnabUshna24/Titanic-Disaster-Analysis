@@ -50,19 +50,19 @@ To find missing values in the dataset, `isnull` function was used. There were 17
 <p><strong>Table 1:</strong> Mean, Median and Mode of 'Fare' and 'Age' Columns </p>
 <table border="1" cellspacing="0" cellpadding="5">
   <tr>
-    <th> Columns </th>
+    <th align="left"> Columns </th>
     <th align="center"> Mean </th>
     <th align="center"> Median </th>
     <th align="center"> Mode </th>
   </tr>
   <tr>
-    <td> Fare </td>
+    <td align="left"> Fare </td>
     <td align="center"> 32.2042 </td>
     <td align="center"> 14.4542 </td>
     <td align="center"> 8.05 </td>
   </tr>
   <tr>
-    <td> Age </td>
+    <td align="left"> Age </td>
     <td align="center"> 29.3616 </td>
     <td align="center"> 28.0 </td>
     <td align="center"> 28.0 </td>
@@ -73,37 +73,37 @@ To find missing values in the dataset, `isnull` function was used. There were 17
 <p><strong>Table 2:</strong> Gender-wise Survival Rate </p>
 <table border="1" cellspacing="0" cellpadding="5">
   <tr>
-    <th> Test Component </th>
+    <th align="left"> Test Component </th>
     <th align="center"> Result </th>
   </tr>
   
   <tr>
-    <td> Null hypothesis </td>
+    <td align="left"> Null hypothesis </td>
     <td align="center"> Significant difference in survival rates </td>
   </tr>
 
   <tr>
-    <td> Significance level (α) </td>
+    <td align="left"> Significance level (α) </td>
     <td align="center"> 0.05 </td>
   </tr>
 
   <tr>
-    <td> T-statistic </td>
+    <td align="left"> T-statistic </td>
     <td align="center"> -18.672 </td>
   </tr>
 
   <tr>
-    <td> P-value </td>
+    <td align="left"> P-value </td>
     <td align="center"> 2.28 × 10⁻⁶¹ </td>
   </tr>
 
   <tr>
-    <td> Decision </td>
+    <td align="left"> Decision </td>
     <td align="center"> Reject the null hypothesis </td>
   </tr>
 
    <tr>
-    <td> Interpretation </td>
+    <td align="left"> Interpretation </td>
     <td align="center"> There is a significant difference in survival rates between males and females on the Titanic </td>
   </tr>
 </table>
