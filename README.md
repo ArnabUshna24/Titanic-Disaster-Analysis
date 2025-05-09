@@ -23,23 +23,23 @@ To find missing values in the dataset, `isnull` function was used. There were 17
 <table>
   
   <tr>
-    <td align="center"><img src="https://github.com/ArnabUshna24/Students-Performance-Analysis/blob/main/data_visualizations/male_female_students_distribution.png" alt="Distribution of Male and Female Students" width="300"/></td>
-    <td align="center"><img src="https://github.com/ArnabUshna24/Students-Performance-Analysis/blob/main/data_visualizations/scores_distributions.png" alt="Distribution of Scores" width="300"/></td>
+    <td align="center"><img src="https://github.com/ArnabUshna24/Titanic-Disaster-Analysis/blob/main/data_visualizations/gender_distribution.png" alt="Distribution of Passengers by Gender" width="300"/></td>
+    <td align="center"><img src="https://github.com/ArnabUshna24/Titanic-Disaster-Analysis/blob/main/data_visualizations/age_distribution.png" alt="Age Distribution Histogram" width="300"/></td>
   </tr>
   
   <tr>
-    <td align="center"> Fig. 1: Distribution of Male and Female Students </td>
-    <td align="center"> Fig. 2: Distribution of Scores </td>
+    <td align="center"> Fig. 1: Distribution of Passengers by Gender </td>
+    <td align="center"> Fig. 2: Age Distribution Histogram </td>
   </tr>
   
   <tr>
-    <td align="center"><img src="https://github.com/ArnabUshna24/Students-Performance-Analysis/blob/main/data_visualizations/avg_scores_gender.png" alt="Average Scores by Gender" width="300"/></td>
-    <td align="center"><img src="https://github.com/ArnabUshna24/Students-Performance-Analysis/blob/main/data_visualizations/relationship_among_scores.png" alt="Relationship Among Scores" width="300"/></td>
+    <td align="center"><img src="https://github.com/ArnabUshna24/Titanic-Disaster-Analysis/blob/main/data_visualizations/gender-wise_survival_rate.png" alt="Survival Rate by Gender" width="300"/></td>
+    <td align="center"><img src="https://github.com/ArnabUshna24/Titanic-Disaster-Analysis/blob/main/data_visualizations/class-wise_survival_rate.png" alt="Survival Rate by Class" width="300"/></td>
   </tr>
   
    <tr>
-    <td align="center"> Fig. 3: Average Scores by Gender </td>
-    <td align="center"> Fig. 4: Relationship Among Scores </td>
+    <td align="center"> Fig. 3: Survival Rate by Gender </td>
+    <td align="center"> Fig. 4: Survival Rate by Class </td>
   </tr>
   
 </table>
