@@ -110,7 +110,7 @@ To find missing values in the dataset, `isnull` function was used. There were 17
 
 
 ## Build from Source
-Instructions are provided in the `ipynb` file.
+Instructions are provided in the `.ipynb` file.
 
 
 If you have any queries, contact me: arnabnushna24@gmail.com
